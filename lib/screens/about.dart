@@ -46,7 +46,7 @@ class about extends StatelessWidget {
                     padding: EdgeInsets.symmetric(horizontal: hieght/33),
                     height: size.height / 2,
                     child: Text(
-                        " نتيجة رؤيتنا لحاجة الطلاب إلى الوصول إلى المراجع العلمبة الموثوقة واختصار الوقت في البحث قمنا بتتطوير هذا البرنامج الذي يهدف إلى الوصول إلى أفضل المراجع بأقصر وقت.\n\n\n بواسطة أحمد خطيب"),
+                        " نتيجة رؤيتنا لحاجة الطلاب إلى الوصول إلى المراجع العلمبة الموثوقة واختصار الوقت في البحث قمنا بتتطوير هذا البرنامج الذي يهدف إلى الوصول إلى أفضل المراجع بأقصر وقت.\n\n\n بواسطة زين العابدين محمد"),
                     decoration: BoxDecoration(
                       color: Colors.white,
                       borderRadius: BorderRadius.circular(20),
